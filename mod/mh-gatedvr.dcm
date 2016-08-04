@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Si8230
+D Si8230
+K Dual Gate Driver
+F http://www.mouser.com/ds/2/368/Si823x-31985.pdf
+$ENDCMP
+#
+#End Doc Library
