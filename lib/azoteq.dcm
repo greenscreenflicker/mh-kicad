@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IQS904D
+D Single Channel Capacitive Sensor and Controller for Dimmer Applications
+K Touch Dimmer IC
+F http://www.azoteq.com/images/stories/pdf/iqs904_datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

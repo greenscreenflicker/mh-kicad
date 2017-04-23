@@ -1,0 +1,13 @@
+(module michaellib:manufacturing-breakaway2 (layer F.Cu) (tedit 57225E03)
+  (fp_text reference REF** (at 0 2) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value manufacturing-breakaway (at -0.25 -3.1) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.5) (layers *.Cu))
+  (pad "" np_thru_hole circle (at 0.8 0) (size 0.6 0.6) (drill 0.5) (layers *.Cu))
+  (pad "" np_thru_hole circle (at -0.8 0) (size 0.6 0.6) (drill 0.5) (layers *.Cu))
+  (pad "" np_thru_hole circle (at 1.6 0) (size 0.6 0.6) (drill 0.5) (layers *.Cu))
+  (pad "" np_thru_hole circle (at -1.6 0) (size 0.6 0.6) (drill 0.5) (layers *.Cu))
+)
